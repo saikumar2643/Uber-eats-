@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/styles/main.css"/>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <h1>Uber<span class="eats">Eats</span></h1>
+            </div>
+                <div class="currentDetails">
+                    <div class="header-option">
+                        <span>Hyderbad</span>
+                    </div>
+                    <div class="header-option">
+                        <span>Delivery now</span>
+           </div>
+        </div>
+        <div class="searchbar">
+            <div class="header-option">
+                Search
+            </div> 
+            <div class="header-option">
+                Sign In
+            </div>
+        </div>
+   </div>
+    </header>
+  <div class="options">
+        
+     <button class="options-btn1">Delivery</button>
+        <button class="options-btn2">Pick Up</button>
+    
+    </div>
+    <div class="listings">
+     <div class="container1">
+        <div class="header">
+            <div class="header-title">
+                <h2 class="h2">
+                    When You Are Hungry Now 
+                </h2>
+                <span class="h2span">
+                    The Fastest Food Delivery to Your Door
+                </span>
+            </div>
+            <div class="header-viewOptions">
+                <div class="viewAll">
+                    <span>View All</span>
+                </div>
+                <div class="viewMore">
+                    <span class="arrow-left">
+                        <i data-feather="arrow-left"></i>
+                    </span>
+                    <span class="arrow-right"><i data-feather="arrow-right"></i></span>
+                </div>
+            </div>
+        </div>
+     </div> 
+     <div class="listing-grid">
+        <div class="listing-grid-elements">
+            <div class="image">
+                <img src="https://media.istockphoto.com/photos/baked-chicken-wings-with-sesame-seeds-and-sweet-chili-sauce-on-white-picture-id835903320?b=1&k=20&m=835903320&s=170667a&w=0&h=r3X2_ncc9zVTxjm3Xbc0HBzHJqKckbZSBR3YKiXRzXU=" alt="listing pic" />
+            </div>
+            <div class="text">
+                <div class="text-title">
+                  <h3>Chicken Nuggets</h3>
+                  <div class="info">
+                    <span class="h3span">$420/- Delivery fee | 20-30 MINS |$</span>
+                  </div>
+                </div>
+                <div class="rating">
+                  <span class="circle">4.2</span>
+                </div>
+              </div>
+              <div class="text-lower">
+                <span class="smallText"
+                  >Indian|Chicken| Spicy</span
+                >
+              </div>
+            </div>
+            <div class="listing-grid-elements">
+                <div class="image">
+                    <img src="https://media.istockphoto.com/photos/gosht-or-lamb-biryani-prepared-in-basmati-rice-served-with-yogurt-dip-picture-id980036908?b=1&k=20&m=980036908&s=170667a&w=0&h=2dNNicDIUXVmQ0X65Euluii2fGrnGHEpf8Y5lowld2E=" alt="listing pic" />
+                </div>
+                <div class="text">
+                    <div class="text-title">
+                      <h3>Mutton biryani</h3>
+                      <div class="info">
+                        <span class="h3span">$550/- Delivery fee | 20-30 MINS |$</span>
+                      </div>
+                    </div>
+                    <div class="rating">
+                      <span class="circle">5.0</span>
+                    </div>
+                  </div>
+                  <div class="text-lower">
+                    <span class="smallText"
+                      >Indian|Mutton| biryani</span
+                    >
+                  </div>
+                  
+                </div>
+                <div class="listing-grid-elements">
+                    <div class="image">
+                        <img src="https://images.unsplash.com/photo-1626777553635-be342a766750?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMGJyaXlhbml8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="listing pic" />
+                    </div>
+                    <div class="text">
+                        <div class="text-title">
+                          <h3> Egg biryani </h3>
+                          <div class="info">
+                            <span class="h3span">$350/- Delivery free | 20-30 MINS |$</span>
+                          </div>
+                        </div>
+                        <div class="rating">
+                          <span class="circle">4.0</span>
+                        </div>
+                      </div>
+                      <div class="text-lower">
+                        <span class="smallText"
+                          >Indian|Egg| Spicy|biryani</span
+                        >
+                      </div>
+                      
+                    </div>
+
+        </div>
+     </div>  
+     <div class="listings">
+        <div class="container1">
+           <div class="header">
+               <div class="header-title">
+                   <h2 class="h2">
+                      Popular Near you 
+                   </h2>
+                
+               </div>
+               <div class="header-viewOptions">
+                   <div class="viewAll">
+                       <span>View All</span>
+                   </div>
+                   <div class="viewMore">
+                       <span class="arrow-left">
+                           <i data-feather="arrow-left"></i>
+                       </span>
+                       <span class="arrow-right"><i data-feather="arrow-right"></i></span>
+                   </div>
+               </div>
+           </div>
+        </div> 
+        <div class="listing-grid">
+           <div class="listing-grid-elements">
+               <div class="image">
+                   <img src="https://images.unsplash.com/photo-1575932444877-5106bee2a599?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoaWNrZW4lMjBmcmllZCUyMHdpbmdzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="listing pic" />
+               </div>
+               <div class="text">
+                   <div class="text-title">
+                     <h3>Chicken pizza</h3>
+                     <div class="info">
+                       <span class="h3span">$250/- Delivery fee | 20-30 MINS |$</span>
+                     </div>
+                   </div>
+                   <div class="rating">
+                     <span class="circle">4.2</span>
+                   </div>
+                 </div>
+                 <div class="text-lower">
+                   <span class="smallText"
+                     >Indian|Chicken| pizza</span
+                   >
+                 </div>
+               </div>
+               <div class="listing-grid-elements">
+                   <div class="image">
+                       <img src="https://images.unsplash.com/photo-1518492104633-130d0cc84637?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGNoaWNrZW4lMjBmcmllZCUyMHdpbmdzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="listing pic" />
+                   </div>
+                   <div class="text">
+                       <div class="text-title">
+                         <h3>Chicken girll</h3>
+                         <div class="info">
+                           <span class="h3span">$500/- Delivery fee | 20-30 MINS |$</span>
+                         </div>
+                       </div>
+                       <div class="rating">
+                         <span class="circle">4.5</span>
+                       </div>
+                     </div>
+                     <div class="text-lower">
+                       <span class="smallText"
+                         >Indian|Chicken| girll</span
+                       >
+                     </div>
+                     
+                   </div>
+                   <div class="listing-grid-elements">
+                       <div class="image">
+                           <img src="https://images.unsplash.com/photo-1585627990987-58ef59c709e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGNoaWNrZW4lMjBmcmllZCUyMHdpbmdzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="listing pic" />
+                       </div>
+                       <div class="text">
+                           <div class="text-title">
+                             <h3>special dish</h3>
+                             <div class="info">
+                               <span class="h3span">$420/- Delivery fee | 20-30 MINS |$</span>
+                             </div>
+                           </div>
+                           <div class="rating">
+                             <span class="circle">4.8</span>
+                           </div>
+                         </div>
+                         <div class="text-lower">
+                           <span class="smallText"
+                             >Indian|special| dish Spicy</span
+                           >
+                         </div>
+                         
+                       </div>
+   
+           </div>
+        </div>
+        <div class="listings">
+            <div class="container1">
+               <div class="header">
+                   <div class="header-title">
+                       <h2 class="h2">
+                          Special Offers 
+                       </h2>
+                       <span class="h2span">
+                           The Limited Availability
+                       </span>
+                   </div>
+                   <div class="header-viewOptions">
+                       <div class="viewAll">
+                           <span>View All</span>
+                       </div>
+                       <div class="viewMore">
+                           <span class="arrow-left">
+                               <i data-feather="arrow-left"></i>
+                           </span>
+                           <span class="arrow-right"><i data-feather="arrow-right"></i></span>
+                       </div>
+                   </div>
+               </div>
+            </div> 
+            <div class="listing-grid">
+               <div class="listing-grid-elements">
+                   <div class="image">
+                       <img src="https://media.istockphoto.com/photos/veg-pulao-with-paneer-tikka-masala-and-lachha-paratha-picture-id1222031490?b=1&k=20&m=1222031490&s=170667a&w=0&h=IyqK9TqNwMT_uPi5iKXJpAT0oUDTRcOCdHssjNy2VyY=" alt="listing pic" />
+                   </div>
+                   <div class="text">
+                       <div class="text-title">
+                         <h3>veg pulao</h3>
+                         <div class="info">
+                           <span class="h3span">$200/- Delivery fee | 20-30 MINS |$</span>
+                         </div>
+                       </div>
+                       <div class="rating">
+                         <span class="circle">4.2</span>
+                       </div>
+                     </div>
+                     <div class="text-lower">
+                       <span class="smallText"
+                         >Indian|veg| pulao</span
+                       >
+                     </div>
+                   </div>
+                   <div class="listing-grid-elements">
+                       <div class="image">
+                           <img src="https://images.unsplash.com/photo-1631452180519-c014fe946bc7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmVnZXRhcmlhbmZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="listing pic" />
+                       </div>
+                       <div class="text">
+                           <div class="text-title">
+                             <h3>Panner Butter Masala</h3>
+                             <div class="info">
+                               <span class="h3span">$280/- Delivery fee | 20-30 MINS |$</span>
+                             </div>
+                           </div>
+                           <div class="rating">
+                             <span class="circle">3.8</span>
+                           </div>
+                         </div>
+                         <div class="text-lower">
+                           <span class="smallText"
+                             >Indian|Panner Butter| Masala</span
+                           >
+                         </div>
+                         
+                       </div>
+                       <div class="listing-grid-elements">
+                           <div class="image">
+                               <img src="https://images.unsplash.com/photo-1593986799230-f9755e668580?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dmVnZXRhcmlhbmZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="listing pic" />
+                           </div>
+                           <div class="text">
+                               <div class="text-title">
+                                 <h3>Special item</h3>
+                                 <div class="info">
+                                   <span class="h3span">$500/- Delivery fee | 20-30 MINS |$</span>
+                                 </div>
+                               </div>
+                               <div class="rating">
+                                 <span class="circle">4.2</span>
+                               </div>
+                             </div>
+                             <div class="text-lower">
+                               <span class="smallText"
+                                 >Indian|Special| Yummy</span
+                               >
+                             </div>
+                             
+                           </div>
+       
+               </div>
+            </div>
+    </div>
+  </div>
+  <script src="https://unpkg.com/feather-icons"></script>
+<script>feather.replace()</script>
+</body>
+</html>
